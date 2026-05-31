@@ -1,0 +1,25 @@
+# === JAVA / SPRING BOOT ===
+target/
+*.class
+*.jar
+*.war
+.idea/
+*.iml
+.metadata/
+
+# === NODE / ANGULAR ===
+node_modules/
+/dist/
+.angular/
+npm-debug.log*
+
+# === PYTHON / IA ===
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# === SECURITY ===
+.env
+.env.local
